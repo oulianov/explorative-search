@@ -1,2 +1,3 @@
-# graph-search
-Explorative search technique based on running pagerank over a document-word graph of texts
+# Explorative search
+
+Explorative search is a document-word graph-based search technique that leverages NLP and Pagerank to explore text collections and discover unexpected relations.
